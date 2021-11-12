@@ -1,4 +1,4 @@
-## Hi! My name is Guilherme, and I'm a Junior Front End Developer with experience in UX/UI Design.
+<!--## Tavlez colocar alguma frase de apresentação aqui.-->
 
 <div align="left">
   <a href="https://github.com/gouveaguilherme">
