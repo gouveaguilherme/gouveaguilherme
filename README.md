@@ -3,11 +3,27 @@
 - I work with UX and UI Design for over a year.
 - I love technology and solving problems.
 
-<div align="left">
+<div align="center">
+  <a href="https://github.com/gouveaguilherme/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouveaguilherme&layout=compact&langs_count=6&theme=dracula"
+    />
+  </a>
+  <a href="https://github.com/gouveaguilherme/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="src=https://github-readme-stats.vercel.app/api?username=gouveaguilherme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    />
+  </a>
+</div>
+
+<!--<div align="left">
   <a href="https://github.com/gouveaguilherme">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gouveaguilherme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouveaguilherme&layout=compact&langs_count=6&theme=dracula"/>
-</div>
+</div>-->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
