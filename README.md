@@ -1,7 +1,8 @@
 ## Hello, and welcome to my space!
-- I'm currently studying to become a front-end developer.
-- I work with UX and UI Design for over a year.
-- I love technology and solving problems.
+- 🧑🏻‍💻 I'm currently studying to become a front-end developer.
+
+- 📐 I work with UX and UI Design for over a year.
+- 🧩I love technology and solving problems.
 
 <div align="left">
   <a href="https://github.com/gouveaguilherme">
@@ -10,8 +11,8 @@
 </div>
   
 ### Sobre mim
-<div style="display: inline_block"  >
-<p> - 📐 UX/UI Designer. </p>
+-  UX/UI Designer.
+- 
 <!--<p> - 👨‍🎓 Estudante de (NOME DO CURSO QUE EU PASSAR), atualmente estou cursando o 1° semestre. </p>-->
 <div style="display: inline_block"><br>
   <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
