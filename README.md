@@ -5,9 +5,9 @@
 
 <div align="center">
   <a href="https://github.com/gouveaguilherme">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouveaguilherme&layout=compact&langs_count=6&theme=dracula"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gouveaguilherme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>-->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouveaguilherme&layout=compact&langs_count=6&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gouveaguilherme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
