@@ -1,4 +1,7 @@
-<!--## Tavlez colocar alguma frase de apresentação aqui.-->
+## Hello, and welcome to my space!
+- I'm currently studying to become a front-end developer.
+- I work with UX and UI Design for over a year.
+- I love technology and solving problems.
 
 <div align="left">
   <a href="https://github.com/gouveaguilherme">
@@ -6,14 +9,19 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouveaguilherme&layout=compact&langs_count=6&theme=gotham"/>
 </div>
 
-<!--<div style="display: inline_block"><br>
-  <img align="center" alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<div style="display: inline_block"><br>
   <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+  <img align="center" alt="Guilherme-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Guilherme-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img align="center" alt="Guilherme-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Guilherme-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  
   <img align="center" alt="Guilherme-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Guilherme-XD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
-  <img align="center" alt="Guilherme-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-</div>-->
+</div>
 
  ##
  
