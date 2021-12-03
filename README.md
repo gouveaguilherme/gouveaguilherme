@@ -8,14 +8,12 @@
 - 🧩 I love technology and to solve problems.
 
 <!--- - 👨🏻‍🎓 Student at (NOME DO CURSO QUE EU PASSAR) in (NOME DA INSTITUIÇÃO), currently in my first year. -->
-##
 
 <div align="left">
   <a href="https://github.com/gouveaguilherme">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouveaguilherme&layout=compact&langs_count=7&theme=dracula"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gouveaguilherme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-##
   
 ### Skills
 <div style="display: inline_block"><br>
@@ -33,7 +31,6 @@
   <img align="center" alt="Guilherme-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Guilherme-XD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
 </div>
- ##
   
 <div> 
   <a href="https://instagram.com/gui.sgouvea" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
