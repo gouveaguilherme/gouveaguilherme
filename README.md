@@ -1,4 +1,5 @@
 ## Hello, and welcome to my space!
+### About Me
 - 👨🏻‍💻 I'm currently studying to become a front-end developer.
 
 - 📐 I work with UX and UI Design for over a year.
