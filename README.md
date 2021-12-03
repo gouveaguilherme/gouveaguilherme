@@ -1,4 +1,5 @@
-## Hello, and welcome to my space!
+## Hello, and welcome to my GitHub space!
+
 ### About Me
 - 👨🏻‍💻 I'm currently studying to become a front-end developer.
 
@@ -6,16 +7,14 @@
 
 - 🧩 I love technology and to solve problems.
 
+<!--- - 👨🏻‍🎓 Student at (NOME DO CURSO QUE EU PASSAR) in (NOME DA INSTITUIÇÃO), currently in my first year. -->
+
 <div align="left">
   <a href="https://github.com/gouveaguilherme">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouveaguilherme&layout=compact&langs_count=6&theme=dracula"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gouveaguilherme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-### Sobre mim
--  UX/UI Designer.
-- 
-<!--<p> - 👨‍🎓 Estudante de (NOME DO CURSO QUE EU PASSAR), atualmente estou cursando o 1° semestre. </p>-->
 <div style="display: inline_block"><br>
   <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
