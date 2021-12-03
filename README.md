@@ -1,8 +1,9 @@
 ## Hello, and welcome to my space!
-- 🧑🏻‍💻 I'm currently studying to become a front-end developer.
+- 👨🏻‍💻 I'm currently studying to become a front-end developer.
 
 - 📐 I work with UX and UI Design for over a year.
-- 🧩I love technology and solving problems.
+
+- 🧩 I love technology and to solve problems.
 
 <div align="left">
   <a href="https://github.com/gouveaguilherme">
