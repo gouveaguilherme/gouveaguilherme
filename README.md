@@ -5,7 +5,7 @@
 
 - 📐 I work with UX and UI Design for over a year.
 
-- 🧩 I love technology and to solve problems.
+- 🧩 I love technology and problem solving.
 
 <!--- - 👨🏻‍🎓 Student at (NOME DO CURSO QUE EU PASSAR) in (NOME DA INSTITUIÇÃO), currently in my first year. -->
 
