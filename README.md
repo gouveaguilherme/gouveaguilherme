@@ -1,11 +1,7 @@
 ## Hello, welcome to my GitHub space!
 
 ### About Me
-- 👨🏻‍💻 I'm currently studying to become a front-end developer.
-
-- 📐 I work with UX and UI Design for over a year.
-
-- 🧩 I love technology and problem solving.
+- UX/UI Designer with experience building layouts and prototypes for web products and SaaS platforms. I love to help simplify the complex, work on big problems, and solving them through creative solutions. I also have an understanding of some front-end technologies such as HTML and CSS. 
 
 <!--- - 👨🏻‍🎓 Student at (NOME DO CURSO QUE EU PASSAR) in (NOME DA INSTITUIÇÃO), currently in my first year. -->
 
