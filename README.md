@@ -1,19 +1,21 @@
-## Hello, welcome to my GitHub space!
+## Hello, welcome to my GitHub!
 
 ### About Me
-- UX/UI Designer with experience building layouts and prototypes for web products and SaaS platforms. I love to help simplify the complex, work on big problems, and solving them through creative solutions. I also have an understanding of some front-end technologies such as HTML, CSS and Javascript. 
+- UX/UI Designer with experience building layouts and prototypes for web products and SaaS platforms. I love to help simplify the complex, work on big problems, and solving them through creative solutions. I'm currently studying programming to become a full-stack developer. 
 
 <!--- - 👨🏻‍🎓 Student at (NOME DO CURSO QUE EU PASSAR) in (NOME DA INSTITUIÇÃO), currently in my first year. -->
 
-##
+<!--##
+
 
 <div align="left">
   <a href="https://github.com/gouveaguilherme">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouveaguilherme&layout=compact&langs_count=7&theme=dracula"/>
-  <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gouveaguilherme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gouveaguilherme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
 </div>
 
-##
+
+##-->
 
 </br>
 
