@@ -19,16 +19,17 @@
 
 </br>
 
+<!--
 ### Skills
 <div style="display: inline_block"><br>
   
   
-  <!-- TECNOLOGIAS QUE AINDA ESTOU ESTUDANDO
+   TECNOLOGIAS QUE AINDA ESTOU ESTUDANDO
   <img align="center" alt="Guilherme-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Guilherme-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="Guilherme-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Guilherme-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  -->
+  
   
   <img align="center" alt="Guilherme-Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,6 +37,7 @@
 </div>
 
 ##
+-->
   
 <div> 
   <a href="https://instagram.com/gui.sgouvea" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
