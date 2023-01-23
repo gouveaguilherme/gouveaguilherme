@@ -1,7 +1,7 @@
 ## Hello, welcome to my GitHub!
 
 ### About Me
-- UX/UI Designer with experience building layouts and prototypes for websites, ecommerces and SaaS platforms. I love to help simplify the complex, work on big problems, and solving them through creative solutions. I'm currently studying programming to become a Software Engineer.. 
+- UX/UI Designer with experience building layouts and prototypes for websites, ecommerces and SaaS platforms. I love to help simplify the complex, work on big problems, and solving them through creative solutions. I'm currently studying programming to become a Software Engineer.
 
 <!--- - 👨🏻‍🎓 Student at (NOME DO CURSO QUE EU PASSAR) in (NOME DA INSTITUIÇÃO), currently in my first year. -->
 
