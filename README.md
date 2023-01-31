@@ -1,7 +1,7 @@
-## Hello, welcome to my GitHub!
+## Olá! Seja bem vindo ao meu GitHub!
 
 ### About Me
-- UX/UI Designer with experience building layouts and prototypes for websites, ecommerces and SaaS platforms. I love to help simplify the complex, work on big problems, and solving them through creative solutions. I'm currently studying programming to become a Software Engineer.
+- Experienced UX/UI Designer with a proven track record of designing user-centered interfaces for SaaS, e-commerce, and website projects. Possessing a passion for simplifying complex challenges through innovative design solutions. Through my experience in UX design, I have gained a deep understanding of the significance of data in decision making, leading me to pursue a path as a Data Analyst. Committed to delivering the most effective solutions to users by combining my expertise in both UX design and data analysis.
 
 <!--- - 👨🏻‍🎓 Student at (NOME DO CURSO QUE EU PASSAR) in (NOME DA INSTITUIÇÃO), currently in my first year. -->
 
