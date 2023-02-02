@@ -6,31 +6,25 @@ UX/UI Designer with a focus on creating user-centered interfaces for SaaS, e-com
 
 <!---👨🏻‍🎓 Student at (NOME DO CURSO QUE EU PASSAR) in (NOME DA INSTITUIÇÃO)-->
 
-<div align="left">
-  <a href="https://github.com/gouveaguilherme">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouveaguilherme&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gouveaguilherme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-</div>
 
-
-</br>
-
-<!--
 ### Skills
 <div style="display: inline_block"><br>
+
+<img align="center" alt="Guilherme-Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="Guilherme-XD" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
+</div>
+<img align="center" alt="Guilherme-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   
-  
+  <!--
    TECNOLOGIAS QUE AINDA ESTOU ESTUDANDO
   <img align="center" alt="Guilherme-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Guilherme-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="Guilherme-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Guilherme-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   
   
-  <img align="center" alt="Guilherme-Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Guilherme-XD" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
-</div>
+  
+  
 
 ##
 -->
