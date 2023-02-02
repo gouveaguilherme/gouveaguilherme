@@ -4,10 +4,7 @@ Here I showcase my skills and share my passion for technology. I'm excited to co
 
 UX/UI Designer with a focus on creating user-centered interfaces for SaaS, e-commerce, and website projects. Fueled by a passion for simplifying complex challenges through innovative design solutions. Through my experience in UX design, I have gained a deep understanding of the significance of data in decision making, leading me to pursue a path as a Data Analyst. Committed to delivering the most effective solutions to users by combining my expertise in both UX design and data analysis.
 
-<!--- - 👨🏻‍🎓 Student at (NOME DO CURSO QUE EU PASSAR) in (NOME DA INSTITUIÇÃO), currently in my first year. -->
-
-<!--##
-
+<!---👨🏻‍🎓 Student at (NOME DO CURSO QUE EU PASSAR) in (NOME DA INSTITUIÇÃO)-->
 
 <div align="left">
   <a href="https://github.com/gouveaguilherme">
@@ -15,8 +12,6 @@ UX/UI Designer with a focus on creating user-centered interfaces for SaaS, e-com
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gouveaguilherme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
 </div>
 
-
-##-->
 
 </br>
 
