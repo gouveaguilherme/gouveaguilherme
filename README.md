@@ -2,7 +2,7 @@
 
 Here I showcase my skills and share my passion for technology. I'm excited to connect with like-minded individuals and explore new opportunities for collaboration.
 
-Experienced UX/UI Designer with a proven track record of designing user-centered interfaces for SaaS, e-commerce, and website projects. Possessing a passion for simplifying complex challenges through innovative design solutions. Through my experience in UX design, I have gained a deep understanding of the significance of data in decision making, leading me to pursue a path as a Data Analyst. Committed to delivering the most effective solutions to users by combining my expertise in both UX design and data analysis.
+UX/UI Designer with a focus on creating user-centered interfaces for SaaS, e-commerce, and website projects. Fueled by a passion for simplifying complex challenges through innovative design solutions. Through my experience in UX design, I have gained a deep understanding of the significance of data in decision making, leading me to pursue a path as a Data Analyst. Committed to delivering the most effective solutions to users by combining my expertise in both UX design and data analysis.
 
 <!--- - 👨🏻‍🎓 Student at (NOME DO CURSO QUE EU PASSAR) in (NOME DA INSTITUIÇÃO), currently in my first year. -->
 
