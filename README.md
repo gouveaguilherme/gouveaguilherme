@@ -6,7 +6,7 @@ As a UX/UI Designer, I have a strong interest in data analysis. My passion lies 
 
 <!---👨🏻‍🎓 Student at (NOME DO CURSO QUE EU PASSAR) in (NOME DA INSTITUIÇÃO)-->
 
-
+<!--
 ### Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="Guilherme-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
@@ -30,7 +30,7 @@ As a UX/UI Designer, I have a strong interest in data analysis. My passion lies 
  </div>
 
   
-<!--
+
   <img align="center" alt="Guilherme-Wordpress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg">
   <img align="center" alt="Guilherme-Woocommerce" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg">
   <img align="center" alt="Guilherme-Javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
