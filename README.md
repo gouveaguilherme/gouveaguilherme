@@ -10,11 +10,14 @@ As a UX/UI Designer, I have a strong interest in data analysis. My passion lies 
 ### Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="Guilherme-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="Guilherme-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
   <img align="center" alt="Guilherme-NumPy" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
   <img align="center" alt="Guilherme-Pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="Guilherme-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Guilherme-MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Guilherme-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="Guilherme-Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Guilherme-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg"> 
   
 <!--
   <img align="center" alt="Guilherme-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
