@@ -2,7 +2,7 @@
 
 Here I showcase my skills and share my passion for technology. I'm excited to connect with like-minded individuals and explore new opportunities for collaboration.
 
-I'm studying Analysis and Systems Development and I'm always looking for new challenges to help me grow professionally. Right now, I'm focused on learning Python for back-end development and I'm also super into data analysis and cybersecurity.
+I'm studying Analysis and Systems Development and I'm always looking for new challenges to help me grow professionally. <!--Right now, I'm focused on learning Python for back-end development and I'm also super into data analysis and cybersecurity.-->
 My main goal is to create solutions that make people's lives better, and I'm always on the lookout to expand my tech knowledge.
 
 ##
