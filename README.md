@@ -15,9 +15,7 @@ Estou começando minha carreira como desenvolvedor front-end, tenho uma base só
   <!-- 
   <img align="center" alt="Guilherme-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   -->
-  <!--
-  <img align="right" alt="Guilherme-pic" height="150" style="border-radius:50px;" src="#">
-  -->
+  <img align="right" alt="Guilherme-pic" height="150" style="border-radius:50px;" src="./image/profile-pic.jpg">
 </div>
   
  ##
