@@ -7,6 +7,7 @@ I'm starting my career as a front-end developer, I've a solid foundation in HTML
 Estou começando minha carreira como desenvolvedor front-end, tenho uma base sólida em HTML e CSS e atualmente estou me aprofundando no mundo do JavaScript, TypeScript e React. Também tenho experiência em design UX/UI, o que me ajuda a criar aplicativos web intuitivos e visualmente atraentes. Você pode conferir meu perfil no GitHub para ver alguns dos meus últimos projetos e ficar atento para mais novidades!
 
 <div style="display: inline_block"><br>
+  <img align="left" alt="Guilherme-pic" height="150" style="border-radius:50px;" src="./image/profile-pic.jpg">
   <img align="center" alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Guilherme-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Guilherme-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -15,7 +16,6 @@ Estou começando minha carreira como desenvolvedor front-end, tenho uma base só
   <!-- 
   <img align="center" alt="Guilherme-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   -->
-  <img align="right" alt="Guilherme-pic" height="150" style="border-radius:50px;" src="./image/profile-pic.jpg">
 </div>
   
  ##
