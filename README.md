@@ -2,11 +2,7 @@
 
 <img align="left" alt="Guilherme-pic" height="150" style="border-radius:50px;" src="./image/profile-pic.jpg">
 
-### 🇺🇸
 I'm starting my career as a front-end developer, I've a solid foundation in HTML and CSS, and I'm currently diving into the world of JavaScript, TypeScript, and React. I also have experience in UX/UI design, which helps me create intuitive and visually appealing web applications. You can check out my GitHub profile to see some of my latest projects and stay tuned for more cool stuff coming up!
-
-### 🇧🇷
-Estou começando minha carreira como desenvolvedor front-end, tenho uma base sólida em HTML e CSS e atualmente estou me aprofundando no mundo do JavaScript, TypeScript e React. Também tenho experiência em design UX/UI, o que me ajuda a criar aplicativos web intuitivos e visualmente atraentes. Você pode conferir meu perfil no GitHub para ver alguns dos meus últimos projetos e ficar atento para mais novidades!
 
 <div style="display: inline_block"><br>
   
