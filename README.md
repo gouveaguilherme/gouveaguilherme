@@ -1,5 +1,3 @@
-<!-- 
-
 ## Hi! 👋🏻 I'm Guilherme, Front-end Developer with experience in UX/UI Design.
 
 <img align="left" alt="Guilherme-pic" height="200" style="border-radius:50px;" src="./image/profile-pic.jpg">
@@ -14,8 +12,6 @@ I'm starting my career as a front-end developer, I've a solid foundation in HTML
   <img align="center" alt="Guilherme-Typescript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Guilherme-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="Guilherme-NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> 
-
--->
   
    <!-- FRAMEWORKS CSS PARA ESTUDAR
   <img align="center" alt="Guilherme-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
@@ -56,13 +52,13 @@ I'm starting my career as a front-end developer, I've a solid foundation in HTML
     <img align="center" alt="Guilherme-Pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
     <img align="center" alt="Guilherme-Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
   -->
-<!-- </div> -->
+</div>
   
-<!--  ##
+##
  
 <div> 
   <a href="https://www.instagram.com/gui.sgouvea/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/guisekai/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:gui.sgouvea@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gouveaguilherme/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div> -->
+</div>
