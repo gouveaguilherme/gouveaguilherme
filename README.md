@@ -52,7 +52,14 @@ I'm actively working on new projects to showcase my growing skills and dedicatio
   <img align="center" alt="Guilherme-Firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg">
   <img align="center" alt="Guilherme-GraphQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg">
   <img align="center" alt="Guilherme-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Guilherme-" height="30" width="40" src="">
+-->
+<!-- BACK-END LANGUAGES
+    <img align="center" alt="Guilherme-php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+    <img align="center" alt="Guilherme-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
+-->
+<!-- CMS
+    <img align="center" alt="Guilherme-Wordpress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
+    <img align="center" alt="Guilherme-Webflow" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg">
 -->
   
 </div>
