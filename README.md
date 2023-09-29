@@ -2,9 +2,9 @@
 
 <img align="left" alt="Guilherme-pic" height="200" style="border-radius:50px;" src="./image/profile-pic.jpg">
 
-I'm transitioning into a Front-end Developer career, leveraging three years of UX Design experience. I have a strong foundation in HTML and CSS, and I'm expanding my expertise in JavaScript<!--, TypeScript, and React.-->
+I'm focused on becoming a UI Engineer, leveraging three years of UX/UI Design experience. I have a strong foundation in HTML and CSS, and I'm expanding my expertise in JavaScript<!--, TypeScript, and React.-->
 
-My UX/UI design background helps me create user-friendly and visually appealing web apps, bridging the gap between design and development for effective digital solutions.
+My background in UX/UI Design provides me with a unique perspective on user-centered design principles, which I apply in my front-end development work to create intuitive and visually appealing web applications.
 
 I'm actively working on new projects to showcase my growing skills and dedication to front-end development. Stay tuned!
 
