@@ -6,7 +6,9 @@ Leveraging my experience in <strong>UX/UI Design</strong> and a strong foundatio
 
 My background in <strong>UX/UI Design</strong> provides me with a unique perspective on user-centered design principles, which I apply in my front-end development work to create intuitive and visually appealing projects.
 
-I'm actively working on new projects to showcase my growing skills and dedication to front-end development. Stay tuned!
+I'm actively working on new projects to showcase my growing skills and dedication to front-end development. 
+
+Stay tuned! 
 
 <div style="display: inline_block"><br>  
     <img align="center" alt="Guilherme-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
