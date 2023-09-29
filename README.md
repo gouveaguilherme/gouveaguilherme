@@ -1,4 +1,4 @@
-## Hi! 👋🏻 I'm Guilherme, Front-end Developer with experience in UX/UI Design.
+## Hi! 👋🏻 I'm Guilherme, UI Designer learning Front-end Development.
 
 <img align="left" alt="Guilherme-pic" height="200" style="border-radius:50px;" src="./image/profile-pic.jpg">
 
