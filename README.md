@@ -2,9 +2,9 @@
 
 <img align="left" alt="Guilherme-pic" height="200" style="border-radius:50px;" src="./image/profile-pic.jpg">
 
-Leveraging my experience in UX/UI Design and a strong foundation in HTML and CSS, now I'm expanding my skills in the programming field to reach my goal of becoming a <strong>UI Engineer</strong>.<!--, TypeScript, and React.-->
+Leveraging my experience in <strong>UX/UI Design</strong> and a strong foundation in HTML and CSS, now I'm expanding my skills in the programming field to reach my goal of becoming a <strong>UI Engineer</strong>.<!--, TypeScript, and React.-->
 
-My background in UX/UI Design provides me with a unique perspective on user-centered design principles, which I apply in my front-end development work to create intuitive and visually appealing projects.
+My background in <strong>UX/UI Design</strong> provides me with a unique perspective on user-centered design principles, which I apply in my front-end development work to create intuitive and visually appealing projects.
 
 I'm actively working on new projects to showcase my growing skills and dedication to front-end development. Stay tuned!
 
