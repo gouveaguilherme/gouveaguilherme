@@ -1,19 +1,21 @@
-## Hi! 👋🏻 I'm Guilherme, UI Designer learning Front-end Development.
+## Hi! 👋🏻 I'm Guilherme, UX Designer learning Data Analysis.
 
 <img align="left" alt="Guilherme-pic" height="200" style="border-radius:50px;" src="./image/profile-pic.jpg">
 
-Leveraging my experience in <strong>UX Design</strong> and a strong foundation in HTML and CSS, now I'm expanding my skills in the programming field to reach my goal of becoming a <strong>UI Specialist</strong>.<!--, TypeScript, and React.-->
+Leveraging my experience in <strong>UX Design</strong>, now I'm expanding my skills in the Data field to reach my goal of becoming a <strong>Data Analyst</strong>.<!--, TypeScript, and React.-->
 
-My background in <strong>UX/UI Design</strong> provides me with a unique perspective on user-centered design principles, which I apply in my front-end development work to create intuitive and visually appealing projects.
+My background in <strong>UX Design</strong> provides me with a unique perspective on users needs, which I apply to my data analysis projects to extract meaningful insights and present results in an intuitive and visually appealing manner.
 
-I'm actively working on new projects to showcase my growing skills and dedication to front-end development. 
+I'm actively working on new projects to showcase my growing skills. 
 
 Stay tuned! 
 
-<div style="display: inline_block"><br>  
+<!-- FRONT-END
+    <div style="display: inline_block"><br>  
     <img align="center" alt="Guilherme-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
     <img align="center" alt="Guilherme-HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
     <img align="center" alt="Guilherme-CSS3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+-->
 <!-- FRAMEWORK CSS
     <img align="center" alt="Guilherme-Tailwindcss" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">
     <img align="center" alt="Guilherme-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
