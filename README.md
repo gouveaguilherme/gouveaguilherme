@@ -1,16 +1,16 @@
-## Hi! 👋🏻 I'm Guilherme, UX Designer learning Data Analysis.
+<!--## Hi! 👋🏻 I'm Guilherme, UX Designer learning Data Analysis.
 
 <img align="left" alt="Guilherme-pic" height="200" style="border-radius:50px;" src="./image/profile-pic.jpg">
 
-Leveraging my experience in <strong>UX Design</strong>, now I'm expanding my skills in the Data field to reach my goal of becoming a <strong>Data Analyst</strong>.<!--, TypeScript, and React.-->
+Leveraging my experience in <strong>UX Design</strong>, now I'm expanding my skills in the Data field to reach my goal of becoming a <strong>Data Analyst</strong>.<!--, TypeScript, and React.
 
 My background in <strong>UX Design</strong> provides me with a unique perspective on users needs, which I apply to my data analysis projects to extract meaningful insights and present results in an intuitive and visually appealing manner.
 
 I'm actively working on new projects to showcase my growing skills. 
 
-Stay tuned! 
+Stay tuned!
 
-<!-- OUTROS
+ OUTROS
   <img align="center" alt="Guilherme-NOME-DO-ÍCONE" height="30" width="40" src="ADICIONAR LINK DO ÍCONE">
   <img align="center" alt="Guilherme-NOME-DO-ÍCONE" height="30" width="40" src="ADICIONAR LINK DO ÍCONE">
   <img align="center" alt="Guilherme-NOME-DO-ÍCONE" height="30" width="40" src="ADICIONAR LINK DO ÍCONE">
