@@ -1,8 +1,8 @@
-<!--## Hi! 👋🏻 I'm Guilherme, UX Designer learning Data Analysis.
+<!--## Hi! 👋🏻 I'm Guilherme, UI Designer learning Software Development.
 
 <img align="left" alt="Guilherme-pic" height="200" style="border-radius:50px;" src="./image/profile-pic.jpg">
 
-Leveraging my experience in <strong>UX Design</strong>, now I'm expanding my skills in the Data field to reach my goal of becoming a <strong>Data Analyst</strong>.<!--, TypeScript, and React.
+Leveraging my experience in <strong>UX/UI Design</strong>, now I'm expanding my skills in the development field to reach my goal of becoming a <strong>UI Developer</strong>.
 
 My background in <strong>UX Design</strong> provides me with a unique perspective on users needs, which I apply to my data analysis projects to extract meaningful insights and present results in an intuitive and visually appealing manner.
 
