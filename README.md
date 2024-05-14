@@ -4,7 +4,7 @@
 
 Leveraging my experience in <strong>UI Design</strong> and a strong foundation in HTML and CSS, now I'm expanding my skills in the development field to reach my goal of becoming a <strong>UI Developer</strong>.
 
-My background in <strong>UI Design</strong> provides me with a unique perspective on users needs, which I apply to my development projects to create intuitive and visually appealing projects.
+My background in <strong>UI Design</strong> provides me with a unique perspective on users needs, which I apply to my development work to create intuitive and visually appealing projects.
 
 I'm actively working on new projects to showcase my growing skills. 
 
