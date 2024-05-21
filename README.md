@@ -1,10 +1,10 @@
 ## Hi! 👋🏻 I'm Guilherme, UI Designer learning Software Development.
 
-<img align="left" alt="Guilherme-pic" height="200" style="border-radius:50px;" src="./image/profile-pic.jpg">
+<img align="left" alt="Guilherme-pic" height="200" src="./image/profile-pic.jpg">
 
-Leveraging my experience in <strong>UI Design</strong> and a strong foundation in HTML and CSS, now I'm expanding my skills in the development field to reach my goal of becoming a <strong>UI Developer</strong>.
+Leveraging my experience in **UI Design** and a strong foundation in HTML and CSS, now I'm expanding my skills in the development field.
 
-My background in <strong>UI Design</strong> provides me with a unique perspective on users needs, which I apply to my development work to create intuitive and visually appealing projects.
+My background in **UX** & **UI Design** provides me with a unique perspective on users needs, which I apply to my development work to create intuitive solutions.
 
 I'm actively working on new projects to showcase my growing skills. 
 
