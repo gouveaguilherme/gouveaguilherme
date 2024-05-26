@@ -4,7 +4,7 @@
 
 Leveraging my experience in **UI Design** and a strong foundation in HTML and CSS, now I'm expanding my skills in the development field.
 
-My background in **UX** & **UI Design** provides me with a unique perspective on users needs, which I apply to my development work to create intuitive solutions.
+My background in **UX** & **UI Design** provides me with a unique perspective on users needs, which I apply to my development work to create incredible solutions.
 
 I'm actively working on new projects to showcase my growing skills. 
 
